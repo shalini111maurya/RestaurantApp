@@ -5,7 +5,7 @@ import Banner from './components/Banner'
 import WhyChooseUs from './components/WhyChooseUs'
 import About from './components/About'
 import Footer from './components/Footer'
-import Popup from './components/popup'
+import Popup from './components/Popup'
 import AOS from "aos";
 import  "aos/dist/aos.css"
 
