@@ -1,6 +1,6 @@
 import React from 'react'
 import home from '../assets/home.png'
-import PrimaryButton from './primaryButton'
+import PrimaryButton from './PrimaryButton'
 import homeBg from '../assets/homeBg.png'
 
 const BgStyle ={
